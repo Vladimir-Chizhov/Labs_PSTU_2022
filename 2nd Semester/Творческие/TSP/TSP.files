@@ -1,0 +1,15 @@
+Graph.h
+TSP.cflags
+TSP.cxxflags
+TSP.h
+build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/.qmake.stash
+build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/debug/moc_mainwindow.cpp
+build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/debug/moc_predefs.h
+build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/ui_mainwindow.h
+debug/qtGraphs.exe
+main.cpp
+mainwindow.cpp
+mainwindow.h
+mainwindow.ui
+qtGraphs.pro
+release/qtGraphs.exe
